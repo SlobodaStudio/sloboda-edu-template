@@ -1,0 +1,2 @@
+sloboda-edu-template
+====================
